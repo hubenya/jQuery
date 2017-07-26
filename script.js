@@ -1,4 +1,4 @@
-//var $ = jQuery;
+//page 1
 
 $(document).ready(function() {
    $('div').mouseenter(function() {
